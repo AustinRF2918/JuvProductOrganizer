@@ -3,7 +3,7 @@
    $360.00
 ** Email Number With Image
    1
-** Verbage 
+** Verbiage 
    Enhance your recovery & protect your investment!
    
    Laser treatments, chemicals peels, microdermabrasions, microneedling, IPL, etc. 
@@ -23,10 +23,10 @@
     $147.00
 *** Email Number With Image
     3
-*** Verbage
-    *Remodeling Phase*
+*** Verbiage
+    *Remodelling Phase*
 
-    Peptide-9 Remodeling Serum (TM) remodels your skin with new, organized collagen
+    Peptide-9 Remodelling Serum (TM) remodels your skin with new, organized collagen
     cells to give you smooth, clear skin. Also includes ingredients to firm elastin
     and reduce uneven pigmentation.
 *** Category
@@ -37,7 +37,7 @@
     [ Not For Individual Sale ]
 *** Email Number With Image
     5
-*** Verbage
+*** Verbiage
     EGF Recovery Serum (TM) boosts your production of collagen cells through growth
     factors and stem cells. Also includes powerful antioxidants and ingredients 
     to boost cellular energy.
@@ -49,10 +49,10 @@
    $75.00
 *** Email Number With Image
     7
-*** Verbage
+*** Verbiage
    *None*
 *** Category
-    Anti Aging
+    Acne Products
    
 
 * Skin Refining Concentrate
@@ -60,10 +60,10 @@
    $58.00
 ** Email Number With Image
    9
-** Verbage
+** Verb age
    Skin Refining Concentrate is an advanced and powerful complex of vitamins (A, C, E), 
-   natural algae, yeast extract, and herbald extracts. Our exclusive acid-free marine
-   technology gently enhanceds skin's own shedding cycle to help visibly improve texture,
+   natural algae, yeast extract, and herbal extracts. Our exclusive acid-free marine
+   technology gently enhances skin's own shedding cycle to help visibly improve texture,
    reduce pore size, calm irritation, and soften fine lines. Helps to achieve a more even
    skin tone, calm over-reactive skin, and protect it from further damage.
 ** Category
@@ -75,9 +75,9 @@
    $37.00
 ** Email Number With Image
    11
-** Verbage
+** Verbiage
    This light (oil-free) fading gel is recommended for all types of non-sensitive skin. 
-   repeated use helps to reduce the appearence of dark spots and discolorations. Use of 
+   repeated use helps to reduce the appearance of dark spots and discolorations. Use of 
    sun protection is required to achieve desired results.
 ** Category
    Anti Aging
@@ -88,7 +88,7 @@
    $43.00
 ** Email Number With Image
    13
-** Verbage
+** Verbiage
    This light, silky, water soluble natural oil blend gently melts, dissolves, and washes
    away heavy make up and impurities without stripping away natural oils. Combines 
    chamomile oil, lavender oil, and vitamin e to leave the skin feeling calm, clean 
@@ -103,8 +103,8 @@
    $36.00
 ** Email Number With Image
    14
-** Verbage
-   This is an excellent moisturizer and skinn brightener, for non-oily skin types.
+** Verbiage
+   This is an excellent moisturizer and skin brightener, for non-oily skin types.
    It prevents moisture loss, while helping to lighten the skin. Best results are
    seen after 4-6 weeks of use.
 ** Category
@@ -116,8 +116,8 @@
    [ Price ]
 ** Email Number With Image
    15
-** Verbage
-   [ Verbage already exists ]
+** Verbiage
+   [ Verbiage already exists ]
 ** Category
    Anti Aging
 
@@ -127,27 +127,64 @@
    $51.00
 ** Email Number With Image
    17
-** Verbage
+** Verbiage
    Collagen Elastin Cream is a high quality emollient and nourishing treatment cream
    which can be used as a day (under makeup) and night cream for normal, combination 
    and dry skin. Contains a blend of fine oils, natural hydrolyzed collagen, hydrolyzed
-   elastin, carrot oil (natural vitamin A), chlorophyll, and botanical extracts. Sooths
+   elastin, carrot oil (natural vitamin A), chlorophyll, and botanical extracts. Soothes
    and softens the skin, helps to improve firmness and elasticity.
 ** Category
    Anti Aging
    
+* Collagen Day Cream
+** Price
+   $51.00
+** Email Number With Image
+   21
+** Verbiage
+   Collagen Day Cream is a luxurious and nourishing day cream recommended for normal
+   and dry non-problem skin. It leaves skin soft and glowing and helps to prevent 
+   the early appearance of wrinkles. Collagen Day Cream contains the finest hydrolyzed
+   Collagen. It absorbs quickly and leaves a smooth, non-greasy finish, helps to 
+   tighten the cell connections to improve firmness, and contains sun-screen ingredients
+   for medium sun protection.
+** Category
+   Anti Aging
 
+* Volcanic Mud Masque
+** Price
+   $26.00
+** Email Number With Image
+   23
+** Verbiage
+   Volcanic Mud Masque is a high performance treatment for dull and tired skin of all
+   types. It draws out impurities as it cleanses, and it renews firmness and elasticity
+   to the skin's surface. Regular use helps to achieve a smoother, fresher, and finer
+   textured look.
+** Category
+   Anti Aging
+
+* Glycolic Cream X-30
+** Price
+   $37.00
+** Email Number With Image
+   25
+** Verbiage
+   [ Needs Verbiage ] 
+** Category
+   Anti Aging
+         
 * Pineapple Enzyme Scrub
 ** Price
    $36.00
 ** Email Number With Image
    19
-** Verbage
-   This is an effective exfoilating, retexturilizing, refining and nourishing 
-   treatment scrub. Efficent and non-abrasive exfoilating is achieved by the 
+** Verbiage
+   This is an effective exfoliating, retexturilizing, refining and nourishing 
+   treatment scrub. Efficient and non-abrasive exfoliating is achieved by the 
    combination of Bromelain enzyme (which is obtained from pineapple) and the
    action of JoJoba beads. The enzyme helps to effectively remove excess surface
-   cells, while the micro spherical beads dissove and release their nourishing 
+   cells, while the micro spherical beads dissolve and release their nourishing 
    Jojoba oil into the skin. This process produces improved skin texture and
    leaves the skin with a luminous glow. The ultimate result is refined and 
    moisturized skin.
