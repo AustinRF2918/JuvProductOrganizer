@@ -136,6 +136,8 @@
 ** Category
    Anti Aging
    
+
+-> NEW STUFF HERE
 * Collagen Day Cream
 ** Price
    $51.00
@@ -151,6 +153,7 @@
 ** Category
    Anti Aging
 
+
 * Volcanic Mud Masque
 ** Price
    $26.00
@@ -164,6 +167,7 @@
 ** Category
    Anti Aging
 
+
 * Glycolic Cream X-30
 ** Price
    $37.00
@@ -174,6 +178,7 @@
 ** Category
    Anti Aging
          
+
 * Pineapple Enzyme Scrub
 ** Price
    $36.00
@@ -190,3 +195,93 @@
    moisturized skin.
 ** Category
    Anti Aging
+
+* Juventus Signature Sponge
+** Price
+   $2.00 For One, $5.00 For Three
+** Email Number With Image
+   27
+** Verbiage
+   Natural Compressed  Celllulose Sponges... gentle natural living cell exfoliators.
+   Each piece lasts about 2 weeks. Do not remove with make-up as these sponges
+   will clog pores!
+** Category
+   Face Maintenance
+
+* Clarifying Brightening Polish
+** Price
+   $57.00
+** Email Number With Image
+   28
+** Verbiage
+   This mild, brightening scrub with exfoliating micro-beads is specially formulated
+   to gently cleanse and exfoliate by removing dry, dead skills cells, excess oils
+   and residue to reveal healthier, younger looking skin. This cosmetically elegant
+   formula provides antioxidant protective coverage, nourishing, enhances skin tone
+   and texture, revealing a fresh and pure complexion.
+** Category
+   Anti-Aging
+   
+* Eye Make-Up Remover 
+** Price
+   $26.00
+** Email Number With Image
+   30
+** Verbiage
+   Eye make-up Remover is a light oil-free cleansing liquid especially formulated 
+   for gentle removal of mascara and eye make-up from around the delicate eye 
+   area.
+** Category
+   Face Maintenance
+   
+* Calming Mint Gel
+** Price
+   $27.00
+** Email Number With Image
+   31
+** Verbiage
+   Calming Mint Gel helps to  reduce and improve the appearance of unsightly razor
+   bumps, razor burn, and ingrown hairs from shaving, electrolysis, and waxing. It 
+   helps to soothe, soften, and condition the skin, while protecting against irritation.
+   Great for bikini lines, underarms, legs, and men's face, neck, and back of head.
+** Category
+   Anti Aging
+   
+* Sheer Physical Sunscreen SPF 50+
+** Price
+   $42.00
+** Email Number With Image
+   33
+** Verbiage
+   Helps prevent sunburn if used as directed with other sun protection measures.
+   Decreases the risk of skin cancer and early skin aging caused by the sun.
+   Contains 13.75% zinc oxide.
+** Category
+   Face Maintenance
+   
+* Vitamin C Antioxidant Sunscreen
+** Price
+   $47.00
+** Email Number With Image
+   35
+** Verbiage
+   Helps prevent sunburn if used as directed with other sun protection measures.
+   Decreases the risk of skin cancer and early skin aging caused by the sun.
+   Contains 7.0% zinc oxide and 7.5% Octinoxate.
+** Category
+   Face Maintenance
+
+* Clarifying Brightening Polish
+** Price
+   $57.00
+** Email Number With Image
+   36
+** Verbiage
+   This mild brightening scrub with exfoliating micro-beads is specially formulated 
+   to gently cleanse and exfoliate by removing dry, dead skin cells, excess oils, and 
+   residue to reveal healthier, younger looking skin. This cosmetically elegant formula
+   provides antioxidant protective coverage, nourishes, enhances skin tone and texture,
+   revealing a fresh and pure complexion.
+** Category
+   Anti Aging
+
