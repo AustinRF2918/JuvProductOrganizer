@@ -1,14 +1,19 @@
 * General
-  Each entry needs an ID number or no ID number. Your choice.
-
+***  Each entry needs an ID number or no ID number.
+***  Each "step" interactable needs to have darker colors.
+*** 404 Page should be centered.
 
 * /index.php/acne-products/
 ** TODO Gly-Sal 2%-2% Acne Medicated Pads
 *** Needs Verbiage
     Says it needs verbiage: is the verbiage/price correct?
+*** Status
+    *Definitely needs verbiage.*
 ** TODO Glycolic Treatment Gel GX-50 and Bio-Drying Lotion
 *** Needs Verbiage
     Have identical images, is this alright?
+*** Status
+    *Unknown*
 
 
 * /index.php/anti-aging-speciality-products/
