@@ -140,7 +140,7 @@
 -> NEW STUFF HERE
 * Collagen Day Cream
 ** Price
-   $51.00
+   $51.00 [ *Double Check* ]
 ** Email Number With Image
    21
 ** Verbiage
@@ -207,10 +207,6 @@
    will clog pores!
 ** Category
    Face Maintenance
-
-* Clarifying Brightening Polish
-** Price
-   $57.00
 ** Email Number With Image
    28
 ** Verbiage
@@ -270,18 +266,3 @@
    Contains 7.0% zinc oxide and 7.5% Octinoxate.
 ** Category
    Face Maintenance
-
-* Clarifying Brightening Polish
-** Price
-   $57.00
-** Email Number With Image
-   36
-** Verbiage
-   This mild brightening scrub with exfoliating micro-beads is specially formulated 
-   to gently cleanse and exfoliate by removing dry, dead skin cells, excess oils, and 
-   residue to reveal healthier, younger looking skin. This cosmetically elegant formula
-   provides antioxidant protective coverage, nourishes, enhances skin tone and texture,
-   revealing a fresh and pure complexion.
-** Category
-   Anti Aging
-

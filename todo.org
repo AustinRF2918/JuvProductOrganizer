@@ -1,0 +1,67 @@
+* General
+  Each entry needs an ID number or no ID number. Your choice.
+
+
+* /index.php/acne-products/
+** TODO Gly-Sal 2%-2% Acne Medicated Pads
+*** Needs Verbiage
+    Says it needs verbiage: is the verbiage/price correct?
+** TODO Glycolic Treatment Gel GX-50 and Bio-Drying Lotion
+*** Needs Verbiage
+    Have identical images, is this alright?
+
+
+* /index.php/anti-aging-speciality-products/
+** TODO Fading Cream
+*** Color Issue
+    Has strange colors.
+
+** TODO Collagin-Elastin Cream
+*** Needs Verbiage
+    Says it needs verbiage: is the verbiage/price correct?
+
+** TODO Glycolic Creme x 30 (Restorative Alpha-Hydroxy Treatment)
+*** Needs Verbiage
+    says that it needs verbiage: is the verbiage/price correct?
+
+** TODO Pineapple Enzyme Scrub 
+*** Color Issue
+    Has strange colors.
+
+** TODO Cucumber Ice Sorbet 
+*** Needs Verbiage
+    Has no price and verbiage is a little funky in terms of its formatting.
+
+** TODO Calming Mint Gel
+*** Needs Verbiage
+    Says that it needs verbiage: is the verbiage/price correct?
+*** Verbiage Wording Issue
+    The wording of the title causes more clutter, maybe move 
+    it down?
+
+** TODO Eye Makeup Remover
+*** Needs Verbiage
+    Says that it needs verbiage: is the verbiage/price correct?
+
+** TODO Eye Makeup Remover
+*** Needs Verbiage
+    Says that it needs verbiage: is the verbiage/price correct?
+
+** TODO Collagen Elastin Cream
+*** Color Issue
+    Has strange colors.
+
+** TODO Collagen Day Cream
+*** Color Issue
+    Has strange colors.
+
+
+* /index.php/face-maintainence-products/
+** TODO Sheer Physical Sunscreen (Broad Spectrum SPF-50)
+*** Needs Verbiage
+    Says that it needs verbiage: is the verbiage/price correct?
+
+** TODO Juventus Spatulas & Compressed Cellulose Sponges (2 Per Pack)
+*** Must Be Removed
+    This has a pending removal tag.
+
