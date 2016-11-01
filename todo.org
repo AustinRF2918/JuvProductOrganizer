@@ -13,29 +13,39 @@
 *** Needs Verbiage
     Have identical images, is this alright?
 *** Status
-    *Unknown*
+    *Unknown: Pending Review By Andrew*
 
 
 * /index.php/anti-aging-speciality-products/
 ** TODO Fading Cream
 *** Color Issue
     Has strange colors.
+*** Status
+    *Fixed*
 
 ** TODO Collagin-Elastin Cream
 *** Needs Verbiage
     Says it needs verbiage: is the verbiage/price correct?
+*** Status
+    *Unknown: Pending Review By Andrew*
 
 ** TODO Glycolic Creme x 30 (Restorative Alpha-Hydroxy Treatment)
 *** Needs Verbiage
-    says that it needs verbiage: is the verbiage/price correct?
+    Says that it needs verbiage: is the verbiage/price correct?
+*** Status
+    *Unknown: Pending Review By Andrew*
 
 ** TODO Pineapple Enzyme Scrub 
 *** Color Issue
     Has strange colors.
+*** Status
+    *Fixed*
 
 ** TODO Cucumber Ice Sorbet 
 *** Needs Verbiage
     Has no price and verbiage is a little funky in terms of its formatting.
+*** Status
+    *Fixed - Stated "Price Available By Call" on entry.*
 
 ** TODO Calming Mint Gel
 *** Needs Verbiage
@@ -43,30 +53,44 @@
 *** Verbiage Wording Issue
     The wording of the title causes more clutter, maybe move 
     it down?
+*** Status
+    *Unknown: Pending Review By Andrew : Unmodified*
 
 ** TODO Eye Makeup Remover
 *** Needs Verbiage
     Says that it needs verbiage: is the verbiage/price correct?
+*** Status
+    *Unknown: Pending Review By Andrew*
 
 ** TODO Eye Makeup Remover
 *** Needs Verbiage
     Says that it needs verbiage: is the verbiage/price correct?
+*** Status
+    *Unknown: Pending Review By Andrew*
 
 ** TODO Collagen Elastin Cream
 *** Color Issue
     Has strange colors.
+*** Status
+    *Fixed*
 
 ** TODO Collagen Day Cream
 *** Color Issue
     Has strange colors.
+*** Status
+    *Fixed*
 
 
 * /index.php/face-maintainence-products/
 ** TODO Sheer Physical Sunscreen (Broad Spectrum SPF-50)
 *** Needs Verbiage
     Says that it needs verbiage: is the verbiage/price correct?
+*** Status
+    *Unknown: Pending Review By Andrew*
 
 ** TODO Juventus Spatulas & Compressed Cellulose Sponges (2 Per Pack)
 *** Must Be Removed
     This has a pending removal tag.
+*** Status
+    *Unknown: Pending Review By Andrew*
 
